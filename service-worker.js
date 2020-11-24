@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/CSIPatientDashboard/precache-manifest.0f3e6178abc023c2b0103cadcfbeb11f.js"
+  "/CSIPatientDashboard/precache-manifest.18fe4ffb638d716404afe1f64835349e.js"
 );
 
 self.addEventListener('message', (event) => {
