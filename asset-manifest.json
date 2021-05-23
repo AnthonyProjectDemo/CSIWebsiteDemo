@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/CSIPatientDashboard/static/css/main.4899eac2.chunk.css",
-    "main.js": "/CSIPatientDashboard/static/js/main.a5af589f.chunk.js",
-    "main.js.map": "/CSIPatientDashboard/static/js/main.a5af589f.chunk.js.map",
-    "runtime-main.js": "/CSIPatientDashboard/static/js/runtime-main.74fe5c6a.js",
-    "runtime-main.js.map": "/CSIPatientDashboard/static/js/runtime-main.74fe5c6a.js.map",
-    "static/css/2.11829350.chunk.css": "/CSIPatientDashboard/static/css/2.11829350.chunk.css",
-    "static/js/2.658cb910.chunk.js": "/CSIPatientDashboard/static/js/2.658cb910.chunk.js",
-    "static/js/2.658cb910.chunk.js.map": "/CSIPatientDashboard/static/js/2.658cb910.chunk.js.map",
-    "index.html": "/CSIPatientDashboard/index.html",
-    "precache-manifest.18fe4ffb638d716404afe1f64835349e.js": "/CSIPatientDashboard/precache-manifest.18fe4ffb638d716404afe1f64835349e.js",
-    "service-worker.js": "/CSIPatientDashboard/service-worker.js",
-    "static/css/2.11829350.chunk.css.map": "/CSIPatientDashboard/static/css/2.11829350.chunk.css.map",
-    "static/css/main.4899eac2.chunk.css.map": "/CSIPatientDashboard/static/css/main.4899eac2.chunk.css.map",
-    "static/js/2.658cb910.chunk.js.LICENSE.txt": "/CSIPatientDashboard/static/js/2.658cb910.chunk.js.LICENSE.txt"
+    "main.css": "/AnthonyGithubCorner/CSIPatientDashboard/static/css/main.6fa9f4d0.chunk.css",
+    "main.js": "/AnthonyGithubCorner/CSIPatientDashboard/static/js/main.12309c0b.chunk.js",
+    "main.js.map": "/AnthonyGithubCorner/CSIPatientDashboard/static/js/main.12309c0b.chunk.js.map",
+    "runtime-main.js": "/AnthonyGithubCorner/CSIPatientDashboard/static/js/runtime-main.424cf2d3.js",
+    "runtime-main.js.map": "/AnthonyGithubCorner/CSIPatientDashboard/static/js/runtime-main.424cf2d3.js.map",
+    "static/css/2.054cb986.chunk.css": "/AnthonyGithubCorner/CSIPatientDashboard/static/css/2.054cb986.chunk.css",
+    "static/js/2.0ac93965.chunk.js": "/AnthonyGithubCorner/CSIPatientDashboard/static/js/2.0ac93965.chunk.js",
+    "static/js/2.0ac93965.chunk.js.map": "/AnthonyGithubCorner/CSIPatientDashboard/static/js/2.0ac93965.chunk.js.map",
+    "index.html": "/AnthonyGithubCorner/CSIPatientDashboard/index.html",
+    "precache-manifest.fd45490539e2c7d3ff32b38fb69d2cfc.js": "/AnthonyGithubCorner/CSIPatientDashboard/precache-manifest.fd45490539e2c7d3ff32b38fb69d2cfc.js",
+    "service-worker.js": "/AnthonyGithubCorner/CSIPatientDashboard/service-worker.js",
+    "static/css/2.054cb986.chunk.css.map": "/AnthonyGithubCorner/CSIPatientDashboard/static/css/2.054cb986.chunk.css.map",
+    "static/css/main.6fa9f4d0.chunk.css.map": "/AnthonyGithubCorner/CSIPatientDashboard/static/css/main.6fa9f4d0.chunk.css.map",
+    "static/js/2.0ac93965.chunk.js.LICENSE.txt": "/AnthonyGithubCorner/CSIPatientDashboard/static/js/2.0ac93965.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.74fe5c6a.js",
-    "static/css/2.11829350.chunk.css",
-    "static/js/2.658cb910.chunk.js",
-    "static/css/main.4899eac2.chunk.css",
-    "static/js/main.a5af589f.chunk.js"
+    "static/js/runtime-main.424cf2d3.js",
+    "static/css/2.054cb986.chunk.css",
+    "static/js/2.0ac93965.chunk.js",
+    "static/css/main.6fa9f4d0.chunk.css",
+    "static/js/main.12309c0b.chunk.js"
   ]
 }
