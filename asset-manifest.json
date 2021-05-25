@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/CSIPatientDashboard/static/css/main.6fa9f4d0.chunk.css",
-    "main.js": "/CSIPatientDashboard/static/js/main.167433f2.chunk.js",
-    "main.js.map": "/CSIPatientDashboard/static/js/main.167433f2.chunk.js.map",
+    "main.css": "/CSIPatientDashboard/static/css/main.57cff4e0.chunk.css",
+    "main.js": "/CSIPatientDashboard/static/js/main.d0cdaa5f.chunk.js",
+    "main.js.map": "/CSIPatientDashboard/static/js/main.d0cdaa5f.chunk.js.map",
     "runtime-main.js": "/CSIPatientDashboard/static/js/runtime-main.32b9f18f.js",
     "runtime-main.js.map": "/CSIPatientDashboard/static/js/runtime-main.32b9f18f.js.map",
     "static/css/2.054cb986.chunk.css": "/CSIPatientDashboard/static/css/2.054cb986.chunk.css",
-    "static/js/2.a1906187.chunk.js": "/CSIPatientDashboard/static/js/2.a1906187.chunk.js",
-    "static/js/2.a1906187.chunk.js.map": "/CSIPatientDashboard/static/js/2.a1906187.chunk.js.map",
+    "static/js/2.a9a97312.chunk.js": "/CSIPatientDashboard/static/js/2.a9a97312.chunk.js",
+    "static/js/2.a9a97312.chunk.js.map": "/CSIPatientDashboard/static/js/2.a9a97312.chunk.js.map",
     "index.html": "/CSIPatientDashboard/index.html",
-    "precache-manifest.f8bf23d10b1a7d8aea9048cdc3fcc29c.js": "/CSIPatientDashboard/precache-manifest.f8bf23d10b1a7d8aea9048cdc3fcc29c.js",
+    "precache-manifest.6203ab88bd6f25369af822dc900e8681.js": "/CSIPatientDashboard/precache-manifest.6203ab88bd6f25369af822dc900e8681.js",
     "service-worker.js": "/CSIPatientDashboard/service-worker.js",
     "static/css/2.054cb986.chunk.css.map": "/CSIPatientDashboard/static/css/2.054cb986.chunk.css.map",
-    "static/css/main.6fa9f4d0.chunk.css.map": "/CSIPatientDashboard/static/css/main.6fa9f4d0.chunk.css.map",
-    "static/js/2.a1906187.chunk.js.LICENSE.txt": "/CSIPatientDashboard/static/js/2.a1906187.chunk.js.LICENSE.txt"
+    "static/css/main.57cff4e0.chunk.css.map": "/CSIPatientDashboard/static/css/main.57cff4e0.chunk.css.map",
+    "static/js/2.a9a97312.chunk.js.LICENSE.txt": "/CSIPatientDashboard/static/js/2.a9a97312.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.32b9f18f.js",
     "static/css/2.054cb986.chunk.css",
-    "static/js/2.a1906187.chunk.js",
-    "static/css/main.6fa9f4d0.chunk.css",
-    "static/js/main.167433f2.chunk.js"
+    "static/js/2.a9a97312.chunk.js",
+    "static/css/main.57cff4e0.chunk.css",
+    "static/js/main.d0cdaa5f.chunk.js"
   ]
 }
