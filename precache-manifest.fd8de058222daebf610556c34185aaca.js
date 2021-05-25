@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "6776058a3e6c435f6cfb9a4de2284acb",
+    "revision": "250040ee44d7d6114b868a5cf40f60e6",
     "url": "/CSIPatientDashboard/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/CSIPatientDashboard/static/css/2.054cb986.chunk.css"
   },
   {
-    "revision": "ea28fedf790dc40ec0f1",
+    "revision": "67d0decda89b842ca5d7",
     "url": "/CSIPatientDashboard/static/css/main.57cff4e0.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/CSIPatientDashboard/static/js/2.a9a97312.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "ea28fedf790dc40ec0f1",
-    "url": "/CSIPatientDashboard/static/js/main.7294c66e.chunk.js"
+    "revision": "67d0decda89b842ca5d7",
+    "url": "/CSIPatientDashboard/static/js/main.d03832a0.chunk.js"
   },
   {
     "revision": "4b3cf5437d58d17adca2",
